@@ -102,11 +102,7 @@ text-align: center  ;
     text-decoration:underline;
     font-family: poppins;    
 }
-.About-section{
-	width: 100%;
-	min-height: 100vh;
-	/* background-image: url("../images/Untitled\ design\ \(2\).png"); */
-}
+
 .container{
 	width: 80%;
 	display: block;
